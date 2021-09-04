@@ -1,17 +1,23 @@
-### Hi there 👋, my name is HoppyAymah
+<p align="center">
+  <samp>Hello! 👋</samp>
+  <br>
+  <br>
+  <samp>I am a jack of all trades who primarily uses NodeJS and loves diving into analytics.</samp>
+  <br>
+  <br>
+  <samp>You are best able to contact me on Discord @ <a href="https://discordapp.com/users/180136998982516736/">BixbyAlan#6986</a>.</samp>
+</p>
+<!--
+**alanbixby/alanbixby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-#### I am a sexi node.js dev
+Here are some ideas to get you started:
 
-![I am a sexi node.js dev](https://media.discordapp.net/attachments/830395249499177000/883664831134203994/unknown.png)
-
-
-Skills:  LUA / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
-- 📫 How to reach me: HoppyAymah#1801 
-
-
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hoppyaymah&show_icons=true)  
-
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
