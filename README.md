@@ -2,10 +2,10 @@
   <samp>Hello! 👋</samp>
   <br>
   <br>
-  <samp>I am a jack of all trades who primarily uses NodeJS and loves diving into analytics.</samp>
+  <samp>I am a Hoppy of all trades who primarily uses NodeJS / Lua / Html / Css  and loves diving into analytics.</samp>
   <br>
   <br>
-  <samp>You are best able to contact me on Discord @ <a href="https://discordapp.com/users/180136998982516736/">BixbyAlan#6986</a>.</samp>
+  <samp>You are best able to contact me on Discord @ <a href="https://discordapp.com/users/768485240229331015/">HoppyAymah#1801</a>.</samp>
 </p>
 <!--
 **alanbixby/alanbixby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
